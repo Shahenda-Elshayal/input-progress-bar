@@ -2,7 +2,7 @@
 
 A JavaScript-based progress bar that visually indicates how much of the input field is filled, with dynamic color changes based on the input length. This project demonstrates how to track user input length in real-time and reflect the progress visually.
 
-## 🚀 Demo
+## 🚀 Live Demo
 
 [View live demo](https://shahenda-elshayal.github.io/input-progress-bar/)
 
