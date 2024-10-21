@@ -1,0 +1,41 @@
+form {
+    width: fit-content;
+    margin: 50px auto;
+}
+
+form input {
+    background-color: #fcfbfb;
+    border: none;
+    padding: 15px 20px;
+    width: 350px;
+    border-radius: 4px;
+    font-size: 18px;
+    border-bottom:4px solid #d7d6d6 ;
+}
+
+form input:focus {
+    outline: none;
+}
+
+form input::placeholder {
+    font-size: 16px;
+}
+
+.progress{
+    width: 0;
+    height: 4px;
+    display: block;
+    position: relative;
+    top: -4px;
+    left: 0;
+}
+
+.red{
+    background-color: red;
+}
+.green{
+    background-color: rgb(20, 168, 111);
+}
+.blue{
+    background-color: rgb(6, 151, 255);
+}
